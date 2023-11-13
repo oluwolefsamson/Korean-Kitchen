@@ -1,0 +1,145 @@
+.hero-container {
+    width: 100%;
+}
+
+.both-side1 {
+    margin: 0 1rem;
+    padding: 2rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background: rgb(236, 231, 236);
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+    
+}
+
+.left-side1 {
+    display: flex;
+    flex-direction: column;
+    width: 55%;
+    
+}
+
+.left-side1 span:nth-child(1) {
+   font-weight: 900;
+   font-size: 100px;
+   color: rgb(114, 74, 114);
+   font-family: 'Times New Roman', Times, serif;
+}
+
+.left-side1 span:nth-child(2){
+    color:  rgba(161, 155, 155, 0.78);
+    font-size: medium;
+    margin: 1rem 0;
+    line-height: 1.5rem;
+}
+
+/* right-side */
+
+.right-side1 img {
+    border-radius: 10%;
+    /* box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5); */
+    align-items: center;
+    transition: transform 0.3s ease-out; 
+}
+
+.right-side1 img:hover {
+    transform: translateY(-50px);
+}
+
+.hero-container .vegetarian{
+    margin: 0 1rem;
+    padding: 2rem;
+    background-color: rgb(236, 231, 236);
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-weight: 600;
+    font-size: 30px;
+    color: rgb(126, 123, 123);
+    height: 15vh;
+   
+      
+}
+
+
+/* .hero-container .hero-button {
+    margin: 0 1rem;
+    padding: 0 2rem;
+    position: absolute;
+    margin-top: -1.5rem;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-left: 30rem;
+    border-radius: 20px;
+    color: #fff;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+    cursor: pointer;
+    background-color: rgb(216, 45, 45);
+
+
+} */
+.hero-container .hero-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: -1rem;
+}
+
+ .hero-container .hero-button span  {
+    padding: 0 2rem;
+    height: 6vh;
+    background-color: brown;
+    position: absolute;
+    border-radius: 10px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    color: #fff;
+    font-weight: 700;
+} 
+
+@media (max-width: 768px) {
+    .both-side1 {
+       display: flex;
+       justify-content: center;
+       
+    }
+
+    .left-side1 {
+        width: 100%;
+    }
+
+    .left-side1 span:nth-child(1) {
+        font-weight: 900;
+        font-size: 36px;  
+    }
+
+    .right-side1 img {
+        height: 50vh;
+        margin-top: 2rem;
+    }
+
+    .hero-container .vegetarian  {
+        font-size: medium;
+        margin-top: -4rem;
+        
+    }
+
+    .hero-container .hero-button {
+        padding-top: 1rem;
+    }
+}
+
+
+
+
+
+

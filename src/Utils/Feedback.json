@@ -1,0 +1,23 @@
+[
+ 
+    {
+      "name": " Min-Ho Park",
+      "detail": "I had the most delightful dining experience at Korean Kitchen! The flavors were sensational, and the presentation was a work of art. The staff was attentive, creating a warm and inviting atmosphere. From start to finish, it was a culinary journey I won't forget. Can't wait to return!",
+      "image": "./feed1.png"
+      
+    },
+    {
+      "name": "Oluwole Remilekun",
+      "detail": "Just had an amazing meal at Korean Kitchen! The food was a symphony of flavors, and the service was top-notch. From the ambiance to the last bite, every moment was a delight. I'll definitely be back for more gastronomic adventures!",
+      "image": "./feed2.png"
+      
+    },
+    
+    {
+      "name": "Ji-Yeon Kim",
+      "detail": "I recently dined at Korean Kitchen, and I can't stop raving about the experience! The dishes were a perfect blend of flavors, and the presentation was exquisite. The staff was attentive, making the evening memorable. I'll be spreading the word about this culinary gem and can't wait for my next visit.",
+      "image": "./feed3.png"
+     
+    }
+   
+  ]

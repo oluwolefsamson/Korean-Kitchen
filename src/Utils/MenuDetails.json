@@ -1,0 +1,23 @@
+[
+ 
+    {
+      "name": "Hotteok Bliss",
+      "detail": "Sweeten your day with our Hotteok pancakes, oozing warmth with a delectable mix of brown sugar, honey, and nuts.",
+      "image": "./menu-img4.png",
+      "price": "$20.00"
+    },
+    {
+      "name": "Kimchi Hotteok",
+      "detail": "Experience the perfect blend of savory and sweet with our kimchi-filled pancakes, a delightful twist on a beloved treat.",
+      "image": "./menu-img1.png",
+      "price": "$30.00"
+    },
+    
+    {
+      "name": "Hotteok Bliss",
+      "detail": "Sweeten your day with our Hotteok pancakes, oozing warmth with a delectable mix of brown sugar, honey, and nuts.",
+      "image": "./menu-img4.png",
+      "price": "$40.00"
+    }
+   
+  ]
