@@ -11,8 +11,6 @@
     background: rgb(236, 231, 236);
     flex-wrap: wrap;
     justify-content: space-between;
-    
-    
 }
 
 .left-side1 {
@@ -51,7 +49,6 @@
 
 .hero-container .vegetarian{
     margin: 0 1rem;
-    padding: 2rem;
     background-color: rgb(236, 231, 236);
     align-items: center;
     justify-content: center;
@@ -129,7 +126,7 @@
 
     .hero-container .vegetarian  {
         font-size: medium;
-        margin-top: -4rem;
+        margin-bottom: -5rem;
         
     }
 
